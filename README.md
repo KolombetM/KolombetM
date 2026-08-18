@@ -8,11 +8,6 @@ Full-Stack Software Developer with 7 years of experience in fintech, specializin
 
 ## $ currently
 
-- Learning: Next.js
-- Open to: collaboration and full-time roles
-
-## $ interests
-
 Currently interested in:
 
 - React and Next.js for front-end development
@@ -20,6 +15,8 @@ Currently interested in:
 - Distributed systems
 - System design
 - Developer tooling
+
+## $ hobbies
 
 Outside of work, I enjoy learning French, reading about software architecture, building side projects, and playing chess.
 
