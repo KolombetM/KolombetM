@@ -125,9 +125,13 @@
   <rect x="93" y="429" width="11" height="21" rx="1" fill="#39ff88" opacity=".9"/>
 
   <!-- Footer -->
-  <line x1="20" y1="460" x2="1580" y2="460" stroke="#39ff88" stroke-opacity=".35"/>
-  <text x="50" y="487"
-        fill="#79a88c"
-        font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace"
-        font-size="14">&gt; focus  &gt; code  &gt; improve  &gt; repeat</text>
+  <line x1="20" y1="445" x2="1580" y2="445"
+      stroke="#39ff88" stroke-opacity=".35"/>
+
+  <text x="50" y="473"
+      fill="#79a88c"
+      font-family="JetBrains Mono, SFMono-Regular, Consolas, monospace"
+      font-size="14">
+      &gt; focus  &gt; code  &gt; improve  &gt; repeat
+  </text>
 </svg>
