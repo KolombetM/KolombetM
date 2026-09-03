@@ -31,3 +31,20 @@ Outside of work, I enjoy learning French, reading about software architecture, b
     <img src="./gmail-badge.svg" height="28" alt="Gmail">
   </a>
 </p>
+
+## Open Source Contributions
+
+### [FOAM3](https://github.com/foam-foundation/foam3)
+
+Professional contribution to an open-source project as part of my work at [Nanopay].
+
+- Referral Code Generation — designed and implemented a user-readable referral code generation system
+- XML Framework Support — extended XML parsing and enum/array handling
+- Scheduled Execution — implemented schedulable run-script functionality
+- File/DAO Improvements — improved large-file persistence and document handling
+- Fintech Features — implemented referral, payment, KYC and approval-flow functionality
+- Framework Bug Fixes — contributed fixes across FOAM's core framework and UI
+
+[View contributions →](https://github.com/foam-foundation/foam3/pulls?page=1&q=is%3Apr+is%3Aclosed+author%3AKolombetM)
+
+
