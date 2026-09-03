@@ -16,7 +16,7 @@ Currently interested in:
 - System design
 - Developer tooling
 
-## $ Open Source Contributions
+## $ openSourceContributions
 
 ### [FOAM3](https://github.com/foam-foundation/foam3)
 
