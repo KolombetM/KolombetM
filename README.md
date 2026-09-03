@@ -47,4 +47,13 @@ Professional contribution to an open-source project as part of my work at [Nanop
 
 [View contributions →](https://github.com/foam-foundation/foam3/pulls?page=1&q=is%3Apr+is%3Aclosed+author%3AKolombetM)
 
+### [KZG library for Ethereum Data Sharding](https://github.com/grandinetech/rust-kzg)
+
+Professional contribution to an open-source project as part of my work at [Nanopay].
+
+- Added zkcrypto support to the library
+
+[View contributions →](https://github.com/grandinetech/rust-kzg/pull/190)
+
+
 
