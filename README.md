@@ -16,23 +16,7 @@ Currently interested in:
 - System design
 - Developer tooling
 
-## $ hobbies
-
-Outside of work, I enjoy learning French, reading about software architecture, building side projects, and playing chess.
-
-<p align="center">
-  <a href="https://kolombetM.dev">
-    <img src="./website-badge.svg" height="28" alt="Website">
-  </a>
-  <a href="https://www.linkedin.com/in/kolombetm/">
-    <img src="./linkedin-badge.svg" height="28" alt="LinkedIn">
-  </a>
-  <a href="mailto:kolya.kolombet@gmail.com">
-    <img src="./gmail-badge.svg" height="28" alt="Gmail">
-  </a>
-</p>
-
-## Open Source Contributions
+## $ Open Source Contributions
 
 ### [FOAM3](https://github.com/foam-foundation/foam3)
 
@@ -54,6 +38,24 @@ Professional contribution to an open-source project as part of my work at [Nanop
 - Added zkcrypto support to the library
 
 [View contributions →](https://github.com/grandinetech/rust-kzg/pull/190)
+
+
+## $ hobbies
+
+Outside of work, I enjoy learning French, reading about software architecture, building side projects, and playing chess.
+
+<p align="center">
+  <a href="https://kolombetM.dev">
+    <img src="./website-badge.svg" height="28" alt="Website">
+  </a>
+  <a href="https://www.linkedin.com/in/kolombetm/">
+    <img src="./linkedin-badge.svg" height="28" alt="LinkedIn">
+  </a>
+  <a href="mailto:kolya.kolombet@gmail.com">
+    <img src="./gmail-badge.svg" height="28" alt="Gmail">
+  </a>
+</p>
+
 
 
 
